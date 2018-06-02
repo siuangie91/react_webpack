@@ -1,6 +1,6 @@
 # Boilerplate config for React projects using Webpack
 
-## Version: 
+## Versions: 
 
 ### Basic Setup:
 - **Branch:** *master*
