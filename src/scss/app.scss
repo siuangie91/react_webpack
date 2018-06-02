@@ -1,0 +1,12 @@
+@import './vars';
+
+html, body {
+	font: {
+		family: sans-serif;
+		size: 14px;
+	}
+}
+
+h1 {
+	color: $red;
+}
