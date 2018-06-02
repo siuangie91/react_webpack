@@ -1,12 +1,13 @@
 # Boilerplate config for React projects using Webpack
 
+## Version: 
 
-## Tutorials
-
-### Basic Setup
-[https://www.youtube.com/watch?v=deyxI-6C2u4](https://www.youtube.com/watch?v=deyxI-6C2u4)
+### Basic Setup:
+-***Branch:*** master
+-***Tutorial:*** [https://www.youtube.com/watch?v=deyxI-6C2u4](https://www.youtube.com/watch?v=deyxI-6C2u4)
 
 ### Sass Loader
-[https://www.youtube.com/watch?v=lqvbgmuhneg](https://www.youtube.com/watch?v=lqvbgmuhneg)
+-***Branch:*** with_sass
+-***Tutorial:*** [https://www.youtube.com/watch?v=lqvbgmuhneg](https://www.youtube.com/watch?v=lqvbgmuhneg)
 
 
