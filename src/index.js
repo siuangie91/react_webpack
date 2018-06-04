@@ -1,18 +1,6 @@
 import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
 
-import Paragraph from './components/Paragraph';
+import CounterList from './components/CounterList';
 
-class App extends React.Component {
-	render() {
-		return(
-			<Fragment>
-				<h1>Hello world! New copy</h1>
-				<Paragraph />
-			</Fragment>
-
-		); 
-	}
-}
-
-ReactDOM.render(<App />, document.getElementById('app'));
+ReactDOM.render(<CounterList />, document.getElementById('app'));
