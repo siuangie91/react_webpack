@@ -4,6 +4,7 @@
 /node_modules
 
 # testing
+/src/components/__snapshots__
 
 # production
 /dist
