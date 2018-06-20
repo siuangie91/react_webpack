@@ -20,7 +20,7 @@ module.exports = {
 			{
 				test: /\.scss$/,
 				// use style-loader in place of MiniCssExtractPlugin if you want to insert css via <style> tag instead of having a separate file
-				use: [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader']
+				use: ['css-hot-loader', MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader']
 			}
 		]
 	},
